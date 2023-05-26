@@ -1,0 +1,35 @@
+[Nest] 5277   - 26/05/2023, 09:11:49  [NestFactory] :  info: Starting Nest application...
+[Nest] 5277   - 26/05/2023, 09:11:49  [InstanceLoader] :  info: AppModule dependencies initialized
+[Nest] 5277   - 26/05/2023, 09:11:49  [DocumentBuilder] :  warn: The "setBasePath" method has been deprecated. Now, a global prefix is populated automatically. If you want to ignore it, take a look here: https://docs.nestjs.com/recipes/swagger#global-prefix. Alternatively, you can use "addServer" method to set up multiple different paths.
+[Nest] 5277   - 26/05/2023, 09:11:49  [RoutesResolver] :  info: AppController {/api}:
+[Nest] 5277   - 26/05/2023, 09:11:49  [RouterExplorer] :  info: Mapped {/api, GET} route
+[Nest] 5277   - 26/05/2023, 09:11:49  [RouterExplorer] :  info: Mapped {/api/hello, POST} route
+[Nest] 5277   - 26/05/2023, 09:11:49  [NestApplication] :  info: Nest application successfully started
+[Nest] 5277   - 26/05/2023, 09:11:56  [NestFactory] :  info: Starting Nest application...
+[Nest] 5277   - 26/05/2023, 09:11:56  [InstanceLoader] :  info: AppModule dependencies initialized
+[Nest] 5277   - 26/05/2023, 09:11:56  [DocumentBuilder] :  warn: The "setBasePath" method has been deprecated. Now, a global prefix is populated automatically. If you want to ignore it, take a look here: https://docs.nestjs.com/recipes/swagger#global-prefix. Alternatively, you can use "addServer" method to set up multiple different paths.
+[Nest] 5277   - 26/05/2023, 09:11:56  [RoutesResolver] :  info: AppController {/api}:
+[Nest] 5277   - 26/05/2023, 09:11:56  [RouterExplorer] :  info: Mapped {/api, GET} route
+[Nest] 5277   - 26/05/2023, 09:11:56  [RouterExplorer] :  info: Mapped {/api/hello, POST} route
+[Nest] 5277   - 26/05/2023, 09:11:56  [NestApplication] :  info: Nest application successfully started
+[Nest] 5277   - 26/05/2023, 09:27:44  [NestFactory] :  info: Starting Nest application...
+[Nest] 5277   - 26/05/2023, 09:27:44  [InstanceLoader] :  info: AppModule dependencies initialized
+[Nest] 5277   - 26/05/2023, 09:27:44  [DocumentBuilder] :  warn: The "setBasePath" method has been deprecated. Now, a global prefix is populated automatically. If you want to ignore it, take a look here: https://docs.nestjs.com/recipes/swagger#global-prefix. Alternatively, you can use "addServer" method to set up multiple different paths.
+[Nest] 5277   - 26/05/2023, 09:27:44  [RoutesResolver] :  info: AppController {/api}:
+[Nest] 5277   - 26/05/2023, 09:27:44  [RouterExplorer] :  info: Mapped {/api, GET} route
+[Nest] 5277   - 26/05/2023, 09:27:44  [RouterExplorer] :  info: Mapped {/api/hello, POST} route
+[Nest] 5277   - 26/05/2023, 09:27:44  [NestApplication] :  info: Nest application successfully started
+[Nest] 5277   - 26/05/2023, 09:44:40  [NestFactory] :  info: Starting Nest application...
+[Nest] 5277   - 26/05/2023, 09:44:40  [InstanceLoader] :  info: AppModule dependencies initialized
+[Nest] 5277   - 26/05/2023, 09:44:40  [DocumentBuilder] :  warn: The "setBasePath" method has been deprecated. Now, a global prefix is populated automatically. If you want to ignore it, take a look here: https://docs.nestjs.com/recipes/swagger#global-prefix. Alternatively, you can use "addServer" method to set up multiple different paths.
+[Nest] 5277   - 26/05/2023, 09:44:40  [RoutesResolver] :  info: AppController {/api}:
+[Nest] 5277   - 26/05/2023, 09:44:40  [RouterExplorer] :  info: Mapped {/api, GET} route
+[Nest] 5277   - 26/05/2023, 09:44:40  [RouterExplorer] :  info: Mapped {/api/hello, POST} route
+[Nest] 5277   - 26/05/2023, 09:44:40  [NestApplication] :  info: Nest application successfully started
+[Nest] 5277   - 26/05/2023, 09:46:35  [NestFactory] :  info: Starting Nest application...
+[Nest] 5277   - 26/05/2023, 09:46:35  [InstanceLoader] :  info: AppModule dependencies initialized
+[Nest] 5277   - 26/05/2023, 09:46:35  [DocumentBuilder] :  warn: The "setBasePath" method has been deprecated. Now, a global prefix is populated automatically. If you want to ignore it, take a look here: https://docs.nestjs.com/recipes/swagger#global-prefix. Alternatively, you can use "addServer" method to set up multiple different paths.
+[Nest] 5277   - 26/05/2023, 09:46:35  [RoutesResolver] :  info: AppController {/api}:
+[Nest] 5277   - 26/05/2023, 09:46:35  [RouterExplorer] :  info: Mapped {/api, GET} route
+[Nest] 5277   - 26/05/2023, 09:46:35  [RouterExplorer] :  info: Mapped {/api/hello, POST} route
+[Nest] 5277   - 26/05/2023, 09:46:35  [NestApplication] :  info: Nest application successfully started
