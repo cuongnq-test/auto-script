@@ -1,0 +1,7 @@
+[Nest] 5277   - 28/07/2023, 17:21:22  [NestFactory] :  info: Starting Nest application...
+[Nest] 5277   - 28/07/2023, 17:21:22  [InstanceLoader] :  info: AppModule dependencies initialized
+[Nest] 5277   - 28/07/2023, 17:21:22  [DocumentBuilder] :  warn: The "setBasePath" method has been deprecated. Now, a global prefix is populated automatically. If you want to ignore it, take a look here: https://docs.nestjs.com/recipes/swagger#global-prefix. Alternatively, you can use "addServer" method to set up multiple different paths.
+[Nest] 5277   - 28/07/2023, 17:21:22  [RoutesResolver] :  info: AppController {/api}:
+[Nest] 5277   - 28/07/2023, 17:21:22  [RouterExplorer] :  info: Mapped {/api, GET} route
+[Nest] 5277   - 28/07/2023, 17:21:22  [RouterExplorer] :  info: Mapped {/api/hello, POST} route
+[Nest] 5277   - 28/07/2023, 17:21:22  [NestApplication] :  info: Nest application successfully started
