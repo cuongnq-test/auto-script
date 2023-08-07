@@ -1,4 +1,12 @@
-import { Body, Controller, Get, HttpCode, Post, Req } from '@nestjs/common';
+import {
+  Body,
+  Controller,
+  Get,
+  HttpCode,
+  Post,
+  Put,
+  Req,
+} from '@nestjs/common';
 import { AppService } from './app.service';
 
 @Controller()
@@ -8,6 +16,13 @@ export class AppController {
   @Get()
   getHello(): string {
     return this.appService.getHello();
+  }
+
+  @Put('hello')
+  @HttpCode(204)
+  updateHello(@Req() request: Request, @Body() body: any): void {
+    console.log(' ->  body', body);
+    console.log(request);
   }
 
   @Post('hello')
